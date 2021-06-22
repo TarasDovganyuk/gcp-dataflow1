@@ -1,0 +1,12 @@
+com\epam\EventAggregator.class
+com\epam\function\ParseJsonFn.class
+com\epam\entity\Event.class
+com\epam\function\CountActivitiesFn.class
+com\epam\entity\EventSubject.class
+com\epam\common\EventAggregatorOptions.class
+com\epam\Transform\CountActivities.class
+com\epam\entity\Output.class
+com\epam\function\MapToOutputFn.class
+com\epam\entity\Activity.class
+com\epam\entity\Subject.class
+com\epam\Transform\MapToOutput.class

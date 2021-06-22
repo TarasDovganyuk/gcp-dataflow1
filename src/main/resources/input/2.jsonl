@@ -1,0 +1,5 @@
+{"id" : "2", "userId": "someUserId","city" :"Lviv","eventType": "click","timestamp" : "2021-05-03 15:15:38","eventSubject" : {"type" : "article","id" : "article1"}}
+{"id" : "2", "userId": "someUserId","city" :"Lviv","eventType": "click","timestamp" : "2021-05-03 15:15:38","eventSubject" : {"type" : "article","id" : "article2"}}
+{"id" : "2", "userId": "someUserId","city" :"Ivano-Frankivsk","eventType": "click","timestamp" : "2021-05-03 15:15:38","eventSubject" : {"type" : "article","id" : "article2"}}
+{"id" : "3", "userId": "someUserId","city" :"Ivano-Frankivsk","eventType": "click","timestamp" : "2021-05-03 15:15:38","eventSubject" : {"type" : "article","id" : "article2"}}
+{"id" : "4", "userId": "someUserId","city" :"Ivano-Frankivsk","eventType": "click","timestamp" : "2021-05-03 15:15:38","eventSubject" : {"type" : "article","id" : "article2"}}
